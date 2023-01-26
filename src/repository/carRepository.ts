@@ -1,4 +1,3 @@
-import db from "../config/database.js";
 import prisma from "../config/prisma.js";
 import { Cars, UpdatedCars } from "../protocols/types.js";
 
